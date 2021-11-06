@@ -1,7 +1,16 @@
 {
   "name": "combinator-calculus",
+  "author": {
+    "url": "https://github.com/blu3beri",
+    "name": "Berend Sliedrecht",
+    "email": "berend@animo.id"
+  },
   "description": "Very small implementation of some of the combinators",
-  "version": "1.0.0",
+  "homepage": "https://github.com/blu3beri/combinator-calculus",
+  "repository": {
+    "url": "https://github.com/blu3beri/combinator-calculus"
+  },
+  "version": "1.0.1",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
